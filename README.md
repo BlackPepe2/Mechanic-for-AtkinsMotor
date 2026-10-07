@@ -2,4 +2,5 @@
 Gear based Atkinson mechanic. 
 
 Hypozykloiden-Triebwerk sagt AI. Ein echter Viertaktmotor mit physisch ungleichen Hüben.
-Das openscad skript erklärt das prinzip. View - animation zum anschauen.
+
+Das openscad skript erklärt das prinzip. View - animation zum anschauen. FPS 10, steps 90.
